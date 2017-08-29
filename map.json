@@ -1,0 +1,44 @@
+{
+  "visited": {
+    "color": "#3E8989",
+    "countries": [
+      "Costa Rica",
+      "Panama",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "South Africa",
+      "France",
+      "Italy",
+      "Spain",
+      "Germany",
+      "Canada",
+      "Mexico",
+      "United Kingdom",
+      "Ireland"
+    ]
+  },
+  "desired": {
+    "color": "#2CDA9D",
+    "countries": [
+      "New Zealand",
+      "Australia",
+      "South Korea",
+      "Japan",
+      "Netherlands",
+      "Argentina",
+      "Paraguay",
+      "Uruguay",
+      "Brazil",
+      "Chile",
+      "Thailand"
+    ]
+  },
+  "lived": {
+    "color": "#564D65",
+    "countries": [
+      "Venezuela",
+      "United States"
+    ]
+  }
+}
